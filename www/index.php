@@ -43,7 +43,9 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
+<p> A vignette for this package, <a href="doc/MultiSpat.pdf">Spatial Multivariate Analysis of Guerry's Data in R</a>,
+written by Stephan Dray was removed from the package because it no longer complies
+with CRAN policies.</p>
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
